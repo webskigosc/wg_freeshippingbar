@@ -2,7 +2,7 @@
 
 A free PrestaShop module that shows customers how much more they need to spend to get free shipping.
 
-**Version:** 1.0.0 · **PrestaShop:** 1.7.6 – 9.x · **License:** EUPL-1.2 · **Author:** [Webski Gość](https://webskigosc.com)
+**Version:** 1.0.0 · **PrestaShop:** 1.7.8 – 9.x · **License:** EUPL-1.2 · **Author:** [Webski Gość](https://webskigosc.com)
 
 ## What it does
 
@@ -73,7 +73,7 @@ Custom colours are saved on **Save** as CSS variables into `views/css/custom.css
 
 ## Requirements
 
-- PrestaShop 1.7.6.0 – 9.2.x
+- PrestaShop 1.7.8.x – 9.2.x
 - PHP 7.1+ (8.x recommended)
 - Free shipping threshold configured (Shipping → Preferences)
 - `modules/wg_freeshippingbar/views/css/custom.css` writable if you use Custom Colors
@@ -88,7 +88,7 @@ Custom colours are saved on **Save** as CSS variables into `views/css/custom.css
 
 ## Compatibility
 
-- ✅ PrestaShop 1.7.6, 8.x and 9.x
+- ✅ PrestaShop 1.7.8, 8.x and 9.x
 - ✅ EN, ES, FR, PL
 - ✅ Free and open source (EUPL-1.2 license)
 
@@ -97,7 +97,7 @@ Custom colours are saved on **Save** as CSS variables into `views/css/custom.css
 Latest release: **1.0.0**
 
 - [Module page on webskigosc.com](https://webskigosc.com/prestashop/freeshippingbar)
-- [Download from GitHub](https://github.com/YOUR_GITHUB_USER/wg_freeshippingbar) <!-- TODO: replace with the real repository URL -->
+- [Download from GitHub](https://github.com/webskigosc/wg_freeshippingbar)
 
 ## Feedback
 

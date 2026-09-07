@@ -2,7 +2,7 @@
 
 Darmowy moduł PrestaShop, który pokazuje klientom, ile brakuje im do darmowej dostawy.
 
-**Wersja:** 1.0.0 · **PrestaShop:** 1.7.6 – 9.x · **Licencja:** EUPL-1.2 · **Autor:** [Webski Gość](https://webskigosc.com)
+**Wersja:** 1.0.0 · **PrestaShop:** 1.7.8 – 9.x · **Licencja:** EUPL-1.2 · **Autor:** [Webski Gość](https://webskigosc.com)
 
 ## Co robi moduł
 
@@ -73,7 +73,7 @@ Własne kolory są zapisywane przy **Zapisz** jako zmienne CSS do pliku `views/c
 
 ## Wymagania
 
-- PrestaShop 1.7.6.0 – 9.2.x
+- PrestaShop 1.7.8.x – 9.2.x
 - PHP 7.1+ (zalecane 8.x)
 - Ustawiony próg darmowej dostawy (Wysyłka → Preferencje)
 - Zapisywalny plik `modules/wg_freeshippingbar/views/css/custom.css`, jeśli używasz własnych kolorów
@@ -88,7 +88,7 @@ Własne kolory są zapisywane przy **Zapisz** jako zmienne CSS do pliku `views/c
 
 ## Zgodność
 
-- ✅ PrestaShop 1.7.6, 8.x i 9.x
+- ✅ PrestaShop 1.7.8, 8.x i 9.x
 - ✅ EN, ES, FR, PL
 - ✅ Darmowy i otwarty (licencja EUPL-1.2)
 
@@ -97,7 +97,7 @@ Własne kolory są zapisywane przy **Zapisz** jako zmienne CSS do pliku `views/c
 Najnowsze wydanie: **1.0.0**
 
 - [Strona modułu na webskigosc.com](https://webskigosc.com/prestashop/freeshippingbar)
-- [Pobierz z GitHub](https://github.com/YOUR_GITHUB_USER/wg_freeshippingbar) <!-- TODO: podmień na właściwy adres repozytorium -->
+- [Pobierz z GitHub](https://github.com/webskigosc/wg_freeshippingbar)
 
 ## Opinie i zgłoszenia
 
