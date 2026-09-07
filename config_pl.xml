@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>wg_freeshippingbar</name>
+    <displayName><![CDATA[Pasek darmowej wysyłki]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Wyświetl w dowolnym miejscu kwotę pozostałą do darmowej wysyłki.]]></description>
+    <author><![CDATA[Webski Gość]]></author><author_uri><![CDATA[https://webskigosc.com]]></author_uri>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Czy na pewno chcesz odinstalować moduł Pasek darmowej wysyłk?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

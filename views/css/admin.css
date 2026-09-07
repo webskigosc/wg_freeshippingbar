@@ -1,0 +1,114 @@
+/**
+ * Copyright 2021-2025 Webski Gość • Marcin Lewandowski • WebskiGosc.com
+ *
+ * NOTICE OF LICENSE
+ *
+ * Licensed under the EUPL-1.2 or later.
+ * You may not use this work except in compliance with the Licence.
+ *
+ * You may obtain a copy of the Licence at:
+ * https://joinup.ec.europa.eu/software/page/eupl
+ * It is also bundled with this package in the file LICENSE.txt
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the Licence is distributed on an AS IS basis,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the Licence for the specific language governing permissions
+ * and limitations under the Licence.
+ *
+ *  @author    Webski Gość • Marcin Lewandowski <marcin@webskigosc.com>
+ *  @copyright 2021-2026 Webski Gość Marcin Lewandowski
+ *  @license   https://joinup.ec.europa.eu/software/page/eupl
+ */
+.bootstrap .panel-heading a,
+a.wg-fsb__link {
+  color: #2475ff;
+}
+.bootstrap .panel-heading a:hover,
+a.wg-fsb__link:hover {
+  color: #0a3a8d;
+}
+.panel-content,
+.panel-content p {
+  font-size: 13px;
+}
+.bootstrap .panel-footer .btn.btn-blue,
+.bootstrap .panel .panel-footer .btn.pull-right {
+  background-color: #2475ff;
+  border-color: #2475ff;
+  color: #fff;
+}
+.bootstrap .panel-footer .btn.btn-blue:hover,
+.bootstrap .panel .panel-footer .btn.pull-right:hover {
+  background-color: #0a3a8d;
+  border-color: #0a3a8d;
+  color: #fff;
+}
+.bootstrap .panel .panel-footer .btn.btn-success {
+  background-color: #03ab0c;
+  border-color: #03ab0c;
+  color: #fff;
+}
+.bootstrap .panel .panel-footer .btn.btn-success:hover {
+  background-color: #037909;
+  border-color: #037909;
+  color: #fff;
+}
+#wg-fsb__informations .panel-heading,
+#wg-fsb__informations .btn-small,
+#wg-fsb__informations.bootstrap .panel-footer {
+  padding: 6px 15px;
+}
+.wg-fsb__hooks .col-lg-8 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.25rem;
+  align-items: center;
+}
+.wg-fsb__hooks .checkbox label {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+.bootstrap .wg-fsb__hooks input[type='checkbox'],
+.bootstrap .wg-fsb__hooks input[type='radio'] {
+  height: 1.25rem;
+  width: 1.25rem;
+  margin-right: 0.5rem;
+}
+#wg-fsb__footer {
+  margin-top: 2rem;
+}
+a.wg-fsb__text {
+  color: #ababab;
+  margin-bottom: 0.35rem;
+}
+a.wg-fsb__text:hover {
+  color: #363636;
+  text-decoration: none;
+}
+a.wg-fsb__text:hover span.icon-heart {
+  color: #b00c33;
+}
+a.wg-fsb__text:hover span.icon-star {
+  color: #fbbc06;
+}
+a.wg-fsb__text,
+a.wg-fsb__text:hover,
+a.wg-fsb__text span.icon-star,
+a.wg-fsb__text:hover span.icon-heart,
+a.wg-fsb__text span.icon-star,
+a.wg-fsb__text:hover span.icon-star {
+  transition: color 0.2s ease-in-out;
+}
+@media (max-width: 1023.99px) {
+  .adminmodules .bootstrap .page-head h4.page-subtitle {
+    margin-top: 40px;
+    padding-left: 1rem;
+  }
+}
+@media (max-width: 767.99px) {
+  .wg-fsb__hooks .col-lg-8 {
+    grid-template-columns: 1fr;
+  }
+}

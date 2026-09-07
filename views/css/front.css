@@ -1,0 +1,145 @@
+/**
+ * Copyright 2021-2025 Webski Gość • Marcin Lewandowski • WebskiGosc.com
+ *
+ * NOTICE OF LICENSE
+ *
+ * Licensed under the EUPL-1.2 or later.
+ * You may not use this work except in compliance with the Licence.
+ *
+ * You may obtain a copy of the Licence at:
+ * https://joinup.ec.europa.eu/software/page/eupl
+ * It is also bundled with this package in the file LICENSE.txt
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the Licence is distributed on an AS IS basis,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the Licence for the specific language governing permissions
+ * and limitations under the Licence.
+ *
+ *  @author    Webski Gość • Marcin Lewandowski <marcin@webskigosc.com>
+ *  @copyright 2021-2026 Webski Gość Marcin Lewandowski
+ *  @license   https://joinup.ec.europa.eu/software/page/eupl
+ */
+:root {
+  --wg-fsb-background-color: #fff;
+  --wg-fsb-text-color: #000;
+  --wg-fsb-progress-bar-color: #000;
+  --wg-fsb-progress-bar-background-color: #e0e0e0;
+}
+.wg-fsb {
+  background-color: var(--wg-fsb-background-color);
+  border-radius: 0.25rem;
+}
+.wg-fsb__countdown,
+.wg-fsb__success {
+  color: var(--wg-fsb-text-color);
+  font-size: 0.875rem;
+}
+.wg-fsb__amount-left {
+  font-weight: bold;
+}
+.wg-fsb__block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.35rem 1rem;
+  padding: 0.75rem 1.25rem;
+}
+.wg-fsb__progress {
+  background-color: var(--wg-fsb-progress-bar-background-color);
+  border-radius: 1in;
+  height: 0.35rem;
+}
+.wg-fsb__progress-bar {
+  background-color: var(--wg-fsb-progress-bar-color) !important;
+  border-radius: 1in;
+  height: 0.35rem;
+}
+.wg-fsb__text {
+  text-align: center;
+  width: 100%;
+}
+.wg-fsb__countdown,
+.wg-fsb__success,
+.wg-fsb__progress,
+#wg-fsb__banner,
+#wg-fsb__checkout-subtotal-details {
+  margin-bottom: 0;
+}
+#wg-fsb__banner .wg-fsb__block {
+  margin: 0 auto;
+  position: relative;
+  max-width: 100%;
+}
+#wg-fsb__banner .wg-fsb__block {
+  padding: 0.5rem 1rem;
+}
+#wg-fsb__cart-modal-content .wg-fsb__block,
+#blockcart-modal #wg-fsb__checkout-subtotal-details .wg-fsb__block {
+  padding: 0;
+}
+#blockcart-modal #wg-fsb__checkout-subtotal-details p,
+#blockcart-modal #wg-fsb__cart-modal-content p {
+  justify-content: center;
+  gap: 0.5rem;
+  color: var(--wg-fsb-text-color);
+}
+#wg-fsb__cart-modal-content {
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+#wg-fsb__product-additional-info,
+#wg-fsb__checkout-subtotal-details {
+  margin-top: 1.25rem;
+}
+small.value:has(.wg-fsb) {
+  float: unset;
+}
+a.label + #wg-fsb__shopping-cart-footer {
+  margin-top: 0.75rem;
+}
+.wg-fsb__hidden,
+#blockcart-modal .cart-content p.wg-fsb__hidden {
+  display: none;
+  visibility: hidden;
+  opacity: 0;
+}
+
+@media (min-width: 576px) {
+  #wg-fsb__banner .wg-fsb__block {
+    width: 540px;
+  }
+  #wg-fsb__banner .wg-fsb__block,
+  #wg-fsb__shopping-cart-footer .wg-fsb__block,
+  #wg-fsb__cross-selling-shopping-cart .wg-fsb__block {
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 768px) {
+  #wg-fsb__banner .wg-fsb__block {
+    width: 720px;
+  }
+  #wg-fsb__shopping-cart {
+    margin-bottom: 0;
+  }
+  #wg-fsb__checkout-subtotal-details .wg-fsb__block {
+    padding: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  #wg-fsb__banner .wg-fsb__block {
+    width: 960px;
+  }
+  #wg-fsb__shopping-cart .wg-fsb__block {
+    padding: 1rem 1rem 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  #wg-fsb__banner .wg-fsb__block {
+    width: 1140px;
+  }
+}

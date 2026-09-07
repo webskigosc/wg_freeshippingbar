@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7f2d4a0c2acd57a1b5e56397c6808cc4">
+        <source>%tag_open%%amount_left%%tag_close%%tax_label% left for free shipping</source>
+        <target>%tag_open%%amount_left%%tag_close%%tax_label% restante para envío gratis</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4c74bc923d1022fc4d323b1782774021">
+        <source>You have free delivery!</source>
+        <target>¡Tienes envío gratis!</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

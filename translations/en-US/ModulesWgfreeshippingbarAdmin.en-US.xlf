@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="5ad157a68725f994b2771effb7125728">
+        <source>Free Shipping Bar</source>
+        <target>Free Shipping Bar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fa56968776f50561a659e091c6d52dc1">
+        <source>Display the amount of free shipping left on the front end of your store.</source>
+        <target>Display the amount of free shipping left on the front end of your store.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c6df430f946cea1d5830c5e868d1671b">
+        <source>Are you sure you want to uninstall %modulename% module?</source>
+        <target>Are you sure you want to uninstall %modulename% module?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="821e78050781d7294d2ea1e5768dce88">
+        <source>Your PHP version is too old, please upgrade to a newer version. Your version is %s, library requires %s</source>
+        <target>Your PHP version is too old, please upgrade to a newer version. Your version is %s, library requires %s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4b339dcfe2b5352461d74d6388f4015f">
+        <source>There was an error during the installation. Please send message with information to the email address: %s</source>
+        <target>There was an error during the installation. Please send message with information to the email address: %s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eb7c387c4a6805682bf4d2f1c9aa60f5">
+        <source>There was an error during the uninstallation. Please send message with information to the email address: %s</source>
+        <target>There was an error during the uninstallation. Please send message with information to the email address: %s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4b8ba5e102977ec2289d943cdc5b75e4">
+        <source>Please select at least one hook.</source>
+        <target>Please select at least one hook.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8e4a53e769f15496d5c8f4fe9d0729df">
+        <source>Progress Bar</source>
+        <target>Progress Bar</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="50eb24060d0cc9e5b1887bccbef5dbeb">
+        <source>Display the progress bar.</source>
+        <target>Display the progress bar.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="df82a5b50d2a764e4da835418264f35b">
+        <source>Free Shipping Achieved</source>
+        <target>Free Shipping Achieved</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9a0399f641fc7f1b1df79ce6047237fb">
+        <source>Hide or leave the bar visible when free shipping is achieved.</source>
+        <target>Hide or leave the bar visible when free shipping is achieved.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e5a4b5dafd0487216d6b11d806fb233a">
+        <source>Empty Cart</source>
+        <target>Empty Cart</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="049a513e574d12762604197929036aa8">
+        <source>Hide or leave the bar visible when cart is empty.</source>
+        <target>Hide or leave the bar visible when cart is empty.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8794a5dad880ed1a30d82081872b050e">
+        <source>Tax Included</source>
+        <target>Tax Included</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d728f85dbe6b04f4ed8141222611cd69">
+        <source>Calculate amount left to free shipping with tax included or excluded.</source>
+        <target>Calculate amount left to free shipping with tax included or excluded.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d0a6d84cc93490c96f10d3d524d87a3d">
+        <source>Tax Label</source>
+        <target>Tax Label</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e754701e70f9ab38f6a72df436c36b6e">
+        <source>Display tax included/excluded label.</source>
+        <target>Display tax included/excluded label.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d7d90723c19e43735e731a36a2739c8b">
+        <source>Check updates</source>
+        <target>Check updates</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="486909bab6ce8b8aed849ef4f351cfd2">
+        <source>Check for module updates automatically.</source>
+        <target>Check for module updates automatically.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4b45f67374779444d2de5a6af4074dff">
+        <source>Assign Hooks</source>
+        <target>Assign Hooks</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="88df8afd156c567085624e060c4c6b33">
+        <source>Choice where to display the free shipping bar.</source>
+        <target>Choice where to display the free shipping bar.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bc04f8d0e12152f1f8810343e84b86d8">
+        <source>Top Banner</source>
+        <target>Top Banner</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="14f820bbd129c7cbd01a37f5338afb4c">
+        <source>Cart Modal Content</source>
+        <target>Cart Modal Content</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="770f8a50bfcbd42e97db870fe546bb89">
+        <source>Cart Modal Footer</source>
+        <target>Cart Modal Footer</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="79e3a9062932935d705819fa5dc94489">
+        <source>Cart Reassurance</source>
+        <target>Cart Reassurance</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9314b1839a55b455731671f277d4c1a7">
+        <source>Checkout Subtotal Details</source>
+        <target>Checkout Subtotal Details</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd3039dac82e13d9f2c472ed17f3b2b0">
+        <source>Cross Selling Shopping Cart</source>
+        <target>Cross Selling Shopping Cart</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e4cdc388fb4b6e4bd49c9ba78ecac956">
+        <source>Product Additional Info</source>
+        <target>Product Additional Info</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9787028383eef1dfde2f09093a851373">
+        <source>Product Footer</source>
+        <target>Product Footer</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b75443a19207ed3a3552edda86536857">
+        <source>Shopping Cart</source>
+        <target>Shopping Cart</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fa177c9ed1c8d06f48dc4b295fc921b1">
+        <source>Shopping Cart Footer</source>
+        <target>Shopping Cart Footer</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aec59b6f4eaec9e848c73782da8dfc61">
+        <source>Select theme that you like most.</source>
+        <target>Select theme that you like most.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="972e73b7a882d0802a4e3a16946a2f94">
+        <source>Basic</source>
+        <target>Basic</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d35b51b639528d580362ca7042de6a0e">
+        <source>Classic</source>
+        <target>Classic</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="30fc6bbba82125243ecf4ddb27fee645">
+        <source>Minimal</source>
+        <target>Minimal</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ad1c9cd3e7b07e2c364c985f73188054">
+        <source>Modern</source>
+        <target>Modern</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f8257df950d4ddcfa654ba524ffa68f5">
+        <source>Custom Colors</source>
+        <target>Custom Colors</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="13b99e573a952ac2d5aedd062cf947a3">
+        <source>Maybe you want to use custom colors?</source>
+        <target>Maybe you want to use custom colors?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a9ded1e5ce5d75814730bb4caaf49419">
+        <source>Background</source>
+        <target>Background</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="46b5f8c58b679b4243cbdb5749642c86">
+        <source>Progress</source>
+        <target>Progress</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9a7e0c0b26b6e3303a71f97a779b6b94">
+        <source>Progress Background</source>
+        <target>Progress Background</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f77d75ed55b8874e2ff6d0fdb67aad11">
+        <source>File %file_name% is not writable or does not exist in the directory %dir%</source>
+        <target>File %file_name% is not writable or does not exist in the directory %dir%</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="09dedb0948cf54dda8b2690d0905ea7b">
+        <source>Made with</source>
+        <target>Made with</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="72feb8f172d0607c02136e21bf50e334">
+        <source>by Webski Gość</source>
+        <target>by Webski Gość</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7fb88243af1b621d4a844d34b78a6e2f">
+        <source>Rate Free Shipping Bar module</source>
+        <target>Rate Free Shipping Bar module</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5ef8f11f209c9181309f1ac8c948005">
+        <source> Do you like Free Shipping Bar module? Please rate it:</source>
+        <target> Do you like Free Shipping Bar module? Please rate it:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6f6163b98bede14532ebcb642b3f5129">
+        <source>Download new version of Free Shipping Bar module</source>
+        <target>Download new version of Free Shipping Bar module</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ca8e60806cdb2b60b1b99396b69629a6">
+        <source>A new version of Free Shipping Bar is available: %latest% (you have %current%).</source>
+        <target>A new version of Free Shipping Bar is available: %latest% (you have %current%).</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="05ae6b18ad129525373e28398dd5a04a">
+        <source>Please update to get the latest features and fixes.</source>
+        <target>Please update to get the latest features and fixes.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c4c95c36570d5a8834be5e88e2f0f6b2">
+        <source>Informations</source>
+        <target>Informations</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9eebecc13000432b64c6119554c9983c">
+        <source>Thank you for using</source>
+        <target>Thank you for using</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3298f82c7352a85b285d0d34715569ed">
+        <source>module. You can read more about it </source>
+        <target>module. You can read more about it </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a26fc115619161580b6dd9a2c7234643">
+        <source>Read more about module</source>
+        <target>Read more about module</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6c92285fa6d3e827b198d120ea3ac674">
+        <source>here</source>
+        <target>here</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Read more</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bbaff12800505b22a853e8b7f4eb6a22">
+        <source>Contact</source>
+        <target>Contact</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="920f37861a6fc08963676b4dbff7a2f1">
+        <source>You have a question or need help of professional developer? Feel free to contact.</source>
+        <target>You have a question or need help of professional developer? Feel free to contact.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="77a5b1478abb43a0a23f9e48ed12dcc6">
+        <source>Send e-mail message</source>
+        <target>Send e-mail message</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="747c6a3564774149c989884e0c581d53">
+        <source>Send message</source>
+        <target>Send message</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ffb7e666a70151215b4c55c6268d7d72">
+        <source>Newsletter</source>
+        <target>Newsletter</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="95cf66d5b55841de6061bd81526577ba">
+        <source>Join to my newsletter and stay up to date with important updates and new modules!</source>
+        <target>Join to my newsletter and stay up to date with important updates and new modules!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aa0ea1c2f0835eb67a4c6c5fcfd0e697">
+        <source>Subscribe newsletter</source>
+        <target>Subscribe newsletter</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b26917587d98330d93f87808fc9d7267">
+        <source>Subscribe</source>
+        <target>Subscribe</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3e6633acf32044cd8a0bba98564753c4">
+        <source>Toss a coin to your Witcher by Sonya Belousova on Spotify</source>
+        <target>Toss a coin to your Witcher by Sonya Belousova on Spotify</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="51420e8aabd227896e5cfa67f38bda13">
+        <source>Toss a coin to your Witcher</source>
+        <target>Toss a coin to your Witcher</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db48cb2493cac2d7bc1af25baf653af5">
+        <source>If you enjoy using this module You can support my work by making a donation.</source>
+        <target>If you enjoy using this module You can support my work by making a donation.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ac6848017377d59f98f95153d9cc1da3">
+        <source>Toss a coin</source>
+        <target>Toss a coin</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="73aa50df046f083739c19f7ae9669282">
+        <source>Buy me coffee</source>
+        <target>Buy me coffee</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

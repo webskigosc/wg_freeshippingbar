@@ -1,0 +1,69 @@
+# macOS-specific files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+
+# VSCode-specific files
+.vscode/
+*.code-workspace
+
+# Node.js dependencies
+node_modules/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Ruby specific files
+*.gem
+.rvmrc
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Build and binary files
+*.exe
+*.dll
+*.so
+*.out
+
+# IDE-specific files (general safety)
+.idea/
+.vscode/
+
+# Version control metadata (if mistakenly added)
+.git/
+
+# Environment files (sensitive data)
+.env
+.env.local
+
+# Cache directories for various tools/frameworks
+.cache/
+.sass-cache/
+dist/
+build/
+
+# Generated documentation and reports
+doc/
+coverage/
+
+# Ignore package lock files (optional, based on project needs)
+package-lock.json
+
+# Ignore archives and compressed files
+*.zip
+*.tar.gz
+
+# Ignore images and media (if not part of the project)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore personal settings backups or temp files
+# *~
